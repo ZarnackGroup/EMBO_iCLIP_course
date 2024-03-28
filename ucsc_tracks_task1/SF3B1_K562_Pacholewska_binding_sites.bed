@@ -1,4 +1,4 @@
-track type=BedGraph name="BindingSiteFinder_SF3B1_K562_Pacholewska" description="Bindings sites defined with BindingSiteFinder for the iCLIP data set of SF3B1 in K562 cells for Pacholwska et al. 2024 (https://doi.org/10.1101/2024.01.26.576051)."
+track type=bedGraph name="BindingSiteFinder_SF3B1_K562_Pacholewska" description="Bindings sites defined with BindingSiteFinder for the iCLIP data set of SF3B1 in K562 cells for Pacholwska et al. 2024 (https://doi.org/10.1101/2024.01.26.576051)."
 chr1	961282	961287	2	0	+
 chr1	961580	961585	3	0	+
 chr1	962099	962104	4	0	+

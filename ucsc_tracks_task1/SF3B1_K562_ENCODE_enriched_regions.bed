@@ -1,4 +1,4 @@
-track type=BedGraph name="DEWSeq_SF3B1_K562" description="DEWSeq regions enriched for SF3B1 crosslinks for the ENCODE eCLIP data set of SF3B1 in K562 cells."
+track type=bedGraph name="DEWSeq_SF3B1_K562" description="DEWSeq regions enriched for SF3B1 crosslinks for the ENCODE eCLIP data set of SF3B1 in K562 cells."
 chr11	62841618	62841809	ENSG00000133316.15|WDR74|SF3B1|SF3B1	1000	-	4.5818157	6.7138104	-1.0	-1.0
 chr11	62841618	62841809	ENSG00000222328.1|RNU2-2P|SF3B1|SF3B1	1000	-	4.5818157	6.7070093	-1.0	-1.0
 chr16	2770224	2770374	ENSG00000167978.16|SRRM2|SF3B1|SF3B1	949	+	3.2926288	1.29035	-1.0	-1.0

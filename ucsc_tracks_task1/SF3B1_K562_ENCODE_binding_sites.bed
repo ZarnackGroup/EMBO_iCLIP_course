@@ -1,4 +1,4 @@
-track type=BedGraph name="BindingSiteFinder_SF3B1_K562" description="Bindings sites defined with BindingSiteFinder for the ENCODE eCLIP data set of SF3B1 in K562 cells."
+track type=bedGraph name="BindingSiteFinder_SF3B1_K562" description="Bindings sites defined with BindingSiteFinder for the ENCODE eCLIP data set of SF3B1 in K562 cells."
 chr1	22079584	22079589	BsID:BS3_ENSG00000070831.18_protein_coding_INTRON_score:6.27913_flankScore:1	0	+
 chr1	26473472	26473477	BsID:BS4_ENSG00000198830.12_protein_coding_INTRON_score:31.3908_flankScore:1	0	+
 chr1	28508920	28508925	BsID:BS6_ENSG00000180198.17_protein_coding_INTRON_score:17.8235_flankScore:1	0	+
