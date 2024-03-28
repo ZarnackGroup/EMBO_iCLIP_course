@@ -1,4 +1,4 @@
-track name="DEWSeq_CSTF2_HepG2" description="DEWSeq regions enriched for CSTF2 crosslinks for the ENCODE eCLIP data set of CSFT2 in HepG2 cells."
+track type=BedGraph name="DEWSeq_CSTF2_HepG2" description="DEWSeq regions enriched for CSTF2 crosslinks for the ENCODE eCLIP data set of CSFT2 in HepG2 cells."
 chr10	100523640	100523840	CSTF2_1	100	-
 chr10	100523739	100523839	CSTF2_1	100	-
 chr10	100913193	100914691	CSTF2_1	100	+

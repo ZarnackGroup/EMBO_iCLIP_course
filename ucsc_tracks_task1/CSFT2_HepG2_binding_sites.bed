@@ -1,4 +1,4 @@
-track name="BindingSiteFinder_CSFT2_HepG2" description="Bindings sites defined with BindingSiteFinder for the ENCODE eCLIP data set of CSFT2 in HepG2 cells."
+track type=BedGraph name="BindingSiteFinder_CSFT2_HepG2" description="Bindings sites defined with BindingSiteFinder for the ENCODE eCLIP data set of CSFT2 in HepG2 cells."
 chr1	629926	629933	BsID:BS1_ENSG00000225630.1_unprocessed_pseudogene_OTHER_score:13.9506_flankScore:0.60377358490566	0	+
 chr1	629934	629941	BsID:BS2_ENSG00000225630.1_unprocessed_pseudogene_OTHER_score:0.74745_flankScore:0.282608695652174	0	+
 chr1	633987	633994	BsID:BS3_ENSG00000248527.1_unprocessed_pseudogene_OTHER_score:11.2462_flankScore:0.585365853658537	0	+

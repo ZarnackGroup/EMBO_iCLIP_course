@@ -1,4 +1,4 @@
-track name="PureCLIP_SF3B1_K562" description="PureCLIP defined binding sites of SF3B1 in the ENCODE K562 data."
+track type=BedGraph name="PureCLIP_SF3B1_K562" description="PureCLIP defined binding sites of SF3B1 in the ENCODE K562 data."
 chr1	1045943	1045944	3	1.43557	+	[score_CL=1.43557;score_E=5.64811;score_B=5.53774;score_UC=1.43557]
 chr1	1045944	1045945	3	4.17474	+	[score_CL=8.86261;score_E=4.17474;score_B=12.1968;score_UC=4.17474]
 chr1	2393381	2393382	3	0.885222	+	[score_CL=0.885222;score_E=3.46156;score_B=1.79963;score_UC=0.885222]
