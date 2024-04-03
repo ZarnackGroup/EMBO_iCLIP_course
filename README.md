@@ -39,7 +39,9 @@ In this task you will explore crosslink profiles and binding sites defined by di
 In this task, you will predict binding motifs based on the sequences of binding sites. For this we will use the XSTREME algorythm, which is part of the MEME suite. We provide you with fastq files from CSTF2, RBFOX2 and PUM2 binding sites.
 
 - Go the the XSTREME web application at https://meme-suite.org/meme/meme_5.5.4/tools/xstreme.
-- 
+- Upload the fastq file with **Browse** and choose the following settings:
+  xx
+  
 
 
 
