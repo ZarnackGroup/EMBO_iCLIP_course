@@ -12,9 +12,16 @@ We uploaded crosslink profiles of CSTF2 and SF3B1 to the UCSC genome browser for
 
 - For SF3B1 we uploaded the crosslinks from two different experiments: A very deep iCLIP2 experiment from Pacholewska *et al.* 2024 (https://doi.org/10.1101/2024.01.26.576051) and a less deep eCLIP experiment from the ENCODE data base. Find some examples for overlaps and discrepacies of the crosslink profiles from both experiments.
 
-- There are different methods to define binding sites CLIP data. We included in the session also crosslink peaks from PureCLIP, binding sites form BindingSiteFinder and enriched binding regions from DEW-seq. Another othen used tool for binding site definition is clipper. Clipper binding sites are also provided at the ENCODE data base for all ENCODE data sets. Add the clipper binding sites to the UCSC genome browser session (see instrcutions below) and compare the binding sites from the different methods.
+- There are different methods to define binding sites CLIP data. We included in the session also crosslink peaks from PureCLIP, binding sites form BindingSiteFinder and enriched binding regions from DEW-seq. Another othen used tool for binding site definition is clipper. Clipper binding sites are also provided at the ENCODE data base for all ENCODE data sets. Add the clipper binding sites for CSFT2 to the UCSC genome browser session (see instrcutions below) and compare the binding sites from the different methods.
 
 ### How to load ENCODE data to the UCSC genome browser
+
+- Go to https://www.encodeproject.org/ and click **Data > Experiment search**.
+- Type your protein of interest in the **Search** field on the top right corner.
+- On the left you can choose **Data type > Dataset** to reduce the number of results. Then select the CSTF2 HepG2 eCLIP data set. You will now see a summary of this experiment.
+- Scroll down to **Files** and click on **Output type > peaks** in the bar on the left. Now you can click **Genome browser** to directly see the clipper peaks in a genome browser.
+- 
+
 
 
 ## Practial 2 - Finding binding motifs with XSTREME
