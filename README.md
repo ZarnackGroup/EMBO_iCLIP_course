@@ -10,4 +10,6 @@ We uploaded crosslink profiles of CSTF2 and SF3B1 to the UCSC genome browser for
 
 - CSFT2 is a polyadenylation factor. Find some examples for crosslink peaks at polyadenylation sites and alternative polyadenylation sites. Are these sites also annotated in the genome annotation?
 
+- For SF3B1 we uploaded the crosslinks from two different experiments: A very deep iCLIP2 experiment from Pacholewska *et al.* 2024 (https://doi.org/10.1101/2024.01.26.576051) and a less deep eCLIP experiment from the ENCODE data base. Find some examples for overlaps and discrepacies of the crosslink profiles from both experiments.
+
 - 
