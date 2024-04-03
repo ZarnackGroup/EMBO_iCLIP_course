@@ -19,8 +19,12 @@ We uploaded crosslink profiles of CSTF2 and SF3B1 to the UCSC genome browser for
 - Go to https://www.encodeproject.org/ and click **Data > Experiment search**.
 - Type your protein of interest in the **Search** field on the top right corner.
 - On the left you can choose **Data type > Dataset** to reduce the number of results. Then select the CSTF2 HepG2 eCLIP data set. You will now see a summary of this experiment.
-- Scroll down to **Files** and click on **Output type > peaks** in the bar on the left. Now you can click **Genome browser** to directly see the clipper peaks in a genome browser.
-- 
+- Scroll down to **Files** and click on **Output type > peaks** in the bar on the left to select the clipper peaks.
+- Now you can click **Genome browser** to directly see the clipper peaks in a genome browser.
+- To load the clipper peaks to the UCSC session with the other tracks, go on **File details**
+- Find the bed file for the geome annotation GRCh38, that combines both replicates. Then right-click on the download symbol and choose **Copy Link**.
+- Now go back to the UCSC browser session and click **My Data** > **Custom Tracks**.
+- Then click **add custom track**, insert the copied link in the **Paste URLs or data** filed and click **Submit**.
 
 
 
