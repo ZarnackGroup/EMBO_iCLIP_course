@@ -17,3 +17,6 @@ We uploaded crosslink profiles of CSTF2 and SF3B1 to the UCSC genome browser for
 ### How to load ENCODE data to the UCSC genome browser
 
 
+## Practial 2 - Finding binding motifs with XSTREME
+
+
