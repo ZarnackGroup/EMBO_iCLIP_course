@@ -6,7 +6,7 @@ We have two practical sessions for you.
 
 ## Practical 1 - Exploring CLIP data with the UCSC genome browser
 
-We uploaded crosslink profiles of CSTF2 and SF3B1 to the UCSC genome browser for you. Have a look at https://genome.ucsc.edu/s/melinak/How_to_define_binding_iCLIP2_EMBO_course_bioinformatics_practial1. Go through the tasks below and make screen shots of the examples you find, so we can discuss your examples in the end.
+In this task you will explore crosslink profiles and binding sites defined by different tools. We uploaded crosslink profiles of CSTF2 and SF3B1 to the UCSC genome browser for you. Have a look at https://genome.ucsc.edu/s/melinak/How_to_define_binding_iCLIP2_EMBO_course_bioinformatics_practial1. Go through the tasks below and make screen shots of the examples you find, so we can discuss your examples in the end.
 
 - CSFT2 is a polyadenylation factor. Find some examples for crosslink peaks at polyadenylation sites and alternative polyadenylation sites. Are these sites also annotated in the genome annotation?
 
@@ -35,5 +35,11 @@ We uploaded crosslink profiles of CSTF2 and SF3B1 to the UCSC genome browser for
 
 
 ## Practial 2 - Finding binding motifs with XSTREME
+
+In this task, you will predict binding motifs based on the sequences of binding sites. For this we will use the XSTREME algorythm, which is part of the MEME suite. We provide you with fastq files from CSTF2, RBFOX2 and PUM2 binding sites.
+
+- Go the the XSTREME web application at https://meme-suite.org/meme/meme_5.5.4/tools/xstreme.
+- 
+
 
 
