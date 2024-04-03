@@ -1,1 +1,1 @@
-# EMBO_iCLIP_course
+# iCLIP2 EMBO course 2024
