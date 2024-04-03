@@ -22,9 +22,15 @@ We uploaded crosslink profiles of CSTF2 and SF3B1 to the UCSC genome browser for
 - Scroll down to **Files** and click on **Output type > peaks** in the bar on the left to select the clipper peaks.
 - Now you can click **Genome browser** to directly see the clipper peaks in a genome browser.
 - To load the clipper peaks to the UCSC session with the other tracks, go on **File details**
-- Find the bed file for the geome annotation GRCh38, that combines both replicates. Then right-click on the download symbol and choose **Copy Link**.
-- Now go back to the UCSC browser session and click **My Data** > **Custom Tracks**.
-- Then click **add custom track**, insert the copied link in the **Paste URLs or data** filed and click **Submit**.
+- Find the bed file for the geome annotation GRCh38, that combines both replicates, download and unzip it.
+- Open the bed file with a text editor. Then add the following first line to the file and save it:
+  
+  **track type=narrowPeak visibility=3 name="name_of_your_track"**
+
+  (you can choose the name of the track with the "name = " setting)
+- Now go back to the UCSC browser session and click **My Data** > **Custom Tracks**, select the bed file with **Browse** and **Submit**.
+- Go back to the Genome Browser view by clicking **return to current position**, the newly uploaded track should be at the top.
+- Right click the new track in the left bar and select **dense** for better visualisation.
 
 
 
