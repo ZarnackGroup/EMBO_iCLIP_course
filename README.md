@@ -14,7 +14,7 @@ In this task, you will explore crosslink profiles and binding sites defined by d
 
 - There are different methods to define binding sites CLIP data. We included in the session also crosslink peaks from PureCLIP, binding sites from BindingSiteFinder and enriched binding regions from DEW-seq. Compare the binding sites from the different methods.
   
-- *If there is still time:* Another tool often used for binding site definition is clipper. Clipper binding sites are also provided in the ENCODE database for all ENCODE data sets. Add the clipper binding sites for CSTF2 to the UCSC genome browser session (see institutions below) and compare the binding sites to the other methods.
+- Another tool often used for binding site definition is clipper. Clipper binding sites are also provided in the ENCODE database for all ENCODE data sets. Add the clipper binding sites for CSTF2 to the UCSC genome browser session (see institutions below) and compare the binding sites to the other methods.
 
 ### How to load ENCODE data to the UCSC genome browser
 
