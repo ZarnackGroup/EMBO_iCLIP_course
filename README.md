@@ -8,7 +8,7 @@ We have two practical sessions for you.
 
 In this task, you will explore crosslink profiles and binding sites defined by different tools. We uploaded crosslink profiles of CSTF2 and SF3B1 to the UCSC genome browser for you. Have a look at https://genome.ucsc.edu/s/melinak/How_to_define_binding_iCLIP2_EMBO_course_bioinformatics_practial1. Go through the tasks below and make screenshots of the examples you find, so we can discuss your examples in the end.
 
-- CSFT2 is a polyadenylation factor. Find some examples of crosslink peaks at polyadenylation sites and alternative polyadenylation sites. Are these sites also annotated in the genome annotation?
+- CSTF2 is a polyadenylation factor. Find some examples of crosslink peaks at polyadenylation sites and alternative polyadenylation sites. Are these sites also annotated in the genome annotation?
 
 - For SF3B1 we uploaded the crosslinks from two different experiments: A very deep iCLIP2 experiment from Pacholewska *et al.* 2024 (https://doi.org/10.1101/2024.01.26.576051) and a less deep eCLIP experiment from the ENCODE database. Find some examples of overlaps and discrepancies in the crosslink profiles from both experiments.
 
